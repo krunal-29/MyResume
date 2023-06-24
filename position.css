@@ -1,0 +1,28 @@
+.parent{
+    position: relative;
+    height: 500px;
+    border: 1px solid black;
+    width: 500px;
+    
+}
+.child{
+    height: 50px;
+    width: 60px;
+    border: 1px solid red;
+    margin-bottom: 5px 0px 0px 0px;
+}
+#b1{
+    background-color: aqua;
+}
+#b2{
+    background-color: blue;
+    position: relative;
+    /* left: 100px; */
+    
+
+}
+#b3{
+    
+    background-color: chartreuse;
+    
+}
